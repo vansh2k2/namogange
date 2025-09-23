@@ -1,0 +1,36 @@
+
+@import "tailwindcss";
+
+label{
+
+    font-size:14px;
+   font-weight: 600;
+}
+
+
+input{
+    background-color:white;
+   border-color:#ccc;
+   border-width: 1px;
+   width:100%;
+   height: 32px;
+   margin-bottom: 16px;
+}
+
+/*button{
+    background-color:#337ab7;
+    width: 100%;
+    height: 32px;
+    color: white;
+}*/
+
+
+a{
+    color: #337ab7;
+}
+
+
+
+
+
+
